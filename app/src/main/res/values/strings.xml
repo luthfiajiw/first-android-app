@@ -2,78 +2,80 @@
     <string name="app_name">SubmissionLuthfi</string>
     <string name="product_name">Product Name</string>
     <string name="product_price">$ 30</string>
+    <string name="description">Description</string>
+    <string name="product_detail">Product Detail</string>
     <string name="pumaxcloud9_leadcat">
         Lead the team to victory in the smooth comfort of our Leadcat Slides. With special edition Cloud9 branding and a soft, molded footbed, you\'ll slide right to the top of the ranks.
-
-        - Easy slip-on style
-        - Padded synthetic leather strap
-        - Molded footbed for soft comfort
-        - EVA outsole for durable grip
-        - Bold Cloud9 logo at strap
-        - PUMA x CLOUD9 collab logo at footbed
-        - Small PUMA Cat Logo at strap
+        \n\n
+        - Easy slip-on style\n
+        - Padded synthetic leather strap\n
+        - Molded footbed for soft comfort\n
+        - EVA outsole for durable grip\n
+        - Bold Cloud9 logo at strap\n
+        - PUMA x CLOUD9 collab logo at footbed\n
+        - Small PUMA Cat Logo at strap\n
     </string>
     <string name="pumaxcloud9_rsx">
         Back in the ‘80s, the original RS (short for “Running System”) was PUMA’s innovative cushioning technology. Today, the RS has been re-invented to create the RS-X. X marks extreme. Exaggerated. Remixed. With its bulky design, material mixes, and bold color palette, the RS-X celebrates extreme reinvention.
-
-        - Bulky silhouette
-        - Mesh upper with leather and suede overlays
-        - Molded sockliner
-        - Lace closure for snug fit
+        \n\n
+        - Bulky silhouette\n
+        - Mesh upper with leather and suede overlays\n
+        - Molded sockliner\n
+        - Lace closure for snug fit\n
     </string>
     <string name="cloud9_sticker">
         The symbols are the word Victory, translated to Icelandic, Sigur, and then converted into Younger Futhark which is a runic alphabet used from when the Vikings first came to Iceland in the 8th century.
     </string>
     <string name="cloud9_jersey_white">
-        Watch us.
+        Watch us.\n\n
 
-        Introducing the official 2021 Jersey.
-
+        Introducing the official 2021 Jersey.\n\n
         Enter a whole new league in the PUMA x CLOUD9 Replica Jersey. Now you can rep the greatest players in the world as you top the leaderboard. Equipped with dryCELL moisture-wicking fabric for performance-ready comfort, plus athletic cutlines and a lightweight fabric blend, you\'ll be prepared to turn it on at a moment\'s notice. Fan or favorite, we\'ve got your back.
     </string>
     <string name="cloud9_jersey_black">
-        Watch us.
+        Watch us.\n\n
 
-        Introducing the official 2021 Jersey.
+        Introducing the official 2021 Jersey.\n\n
 
         Show your passion for Cloud9 in the official licensed Jersey from PUMA. This updated design is inspired by classic C9 branding and PUMA dryCELL performance fabric, this jersey will have you shouting \"lets go C9!\" in style.
     </string>
     <string name="hoodie_black">
-        Watch us.
+        Watch us.\n\n
 
-        Introducing the official 2021 Pro Zip Hoodie. Part of the official player uniform.
+        Introducing the official 2021 Pro Zip Hoodie. Part of the official player uniform.\n\n
 
         Show your passion for Cloud9 in the official licensed hoodie from PUMA. This updated design is inspired by classic C9 branding and PUMA performance fabric, this hoodie will have you shouting \"lets go C9!\" in style.
     </string>
     <string name="cloud9_pant">
-        Watch us.
+        Watch us.\n\n
 
-        Introducing the official 2021 Pro Pant. Part of the 2021 player uniform.
+        Introducing the official 2021 Pro Pant. Part of the 2021 player uniform.\n\n
 
         Show your passion for Cloud9 in the official licensed pro pant from PUMA. This updated design is inspired by classic C9 branding and PUMA these pants will have you shouting /"lets go C9!/" in style.
     </string>
     <string name="cloud9_hat">
         Rep your team wherever you go in this classic cap from PUMA and Cloud9. Featuring a sleek six-panel shape, adjustable snapback closure and eye-catching branding, you\'ll wear your allegiance loud and proud.
-
-        - Six panel structure
-        - Flat brim
-        - Plastic snapback adjuster at back
-        - Contrast color embroidered eyelets at sides
-        - Silicon Cloud 9 Logo at front
-        - Embroidered PUMA Cat Logo at back
-        - 100% Polyester, woven
+        \n\n
+        - Six panel structure\n
+        - Flat brim\n
+        - Plastic snapback adjuster at back\n
+        - Contrast color embroidered eyelets at sides\n
+        - Silicon Cloud 9 Logo at front\n
+        - Embroidered PUMA Cat Logo at back\n
+        - 100% Polyester, woven\n
     </string>
     <string name="cloud9_bag">
         This is like that one item you can\'t go without. The one thing in your arsenal you can always count on to have your back. The PUMA x CLOUD9 Backpack is designed to get you through your day in ease and comfort- with multiple pockets to store all your belongings and soft, padded shoulder straps to keep you comfortable along the way.
-
-        - LINING: 100% polyester
-        - SHELL: 100% polyester
+        \n\n
+        - LINING: 100% polyester\n
+        - SHELL: 100% polyester\n
     </string>
     <string name="cloud9_waistbag">
         If you\'re gonna step out, you\'ve gotta be equipped for any possibility. This PUMA x CLOUD9 Waist Bag was designed with gamers in mind- with multiple storage compartments, an adjustable strap and bold Cloud9 branding.
-
-        - LINING: 100% polyester
-        - SHELL: 100% polyester
+        \n\n
+        - LINING: 100% polyester\n
+        - SHELL: 100% polyester\n
     </string>
     <string name="profile">Profile</string>
+    <string name="nama">Luthfi Aji Wicaksono</string>
 </resources>
